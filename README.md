@@ -29,9 +29,8 @@ David, 007, medium, 7, male, 345678
 Sophia, 008, high, 9, female, 678901
 Daniel, 009, low, 4, male, 012345
 Ella, 010, medium, 6, female, 890123
-
-
-
+```
+```
 --------------
 Weather Data
 ---------------
