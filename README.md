@@ -62,11 +62,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 #### Employee Data
-![](1.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/9725d7ad-68f7-47c6-a511-39d98d896dc8)
 
 #### Weather Data
-![](2.PNG)
-
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/585c7d8f-0e9a-4a77-a6a2-ea7fd449ce5e)
 
 ### PREPROCESSING
 ### Procedure:
@@ -88,10 +87,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 #### Employee Data
-![](3.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/dc1df5b9-dd0f-424e-b56f-0895066b1813)
 
 #### Weather Data
-![](4.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/36f60eb0-2f6a-42fb-9495-b555c8a6bc8a)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -109,10 +108,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 #### Employee Data
-![](5.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/c473f206-de6a-4d28-a69f-0e2779018235)
 
 #### Weather Data
-![](6.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/c7848088-3e76-41c2-819a-1c49874c2843)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -130,10 +129,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 #### Employee Data
-![](7.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/b30c7b09-90ba-463d-b1fa-fb3cc42de812)
 
 #### Weather Data
-![](8.PNG)
+![image](https://github.com/Yamunaasri/WDM_EXP1/assets/115707860/10dc81fe-8c7d-48b8-a0aa-40383ea71f9f)
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
